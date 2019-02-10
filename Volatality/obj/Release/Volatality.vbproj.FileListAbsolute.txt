@@ -1,0 +1,10 @@
+C:\Users\hishanxp\Documents\Visual Studio 2008\Projects\Volatality\Volatality\bin\Release\Volatality.exe
+C:\Users\hishanxp\Documents\Visual Studio 2008\Projects\Volatality\Volatality\bin\Release\Volatality.pdb
+C:\Users\hishanxp\Documents\Visual Studio 2008\Projects\Volatality\Volatality\bin\Release\Volatality.xml
+C:\Users\hishanxp\Documents\Visual Studio 2008\Projects\Volatality\Volatality\obj\Release\ResolveAssemblyReference.cache
+C:\Users\hishanxp\Documents\Visual Studio 2008\Projects\Volatality\Volatality\obj\Release\Volatality.Form1.resources
+C:\Users\hishanxp\Documents\Visual Studio 2008\Projects\Volatality\Volatality\obj\Release\Volatality.Resources.resources
+C:\Users\hishanxp\Documents\Visual Studio 2008\Projects\Volatality\Volatality\obj\Release\Volatality.vbproj.GenerateResource.Cache
+C:\Users\hishanxp\Documents\Visual Studio 2008\Projects\Volatality\Volatality\obj\Release\Volatality.exe
+C:\Users\hishanxp\Documents\Visual Studio 2008\Projects\Volatality\Volatality\obj\Release\Volatality.xml
+C:\Users\hishanxp\Documents\Visual Studio 2008\Projects\Volatality\Volatality\obj\Release\Volatality.pdb
